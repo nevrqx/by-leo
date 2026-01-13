@@ -1,0 +1,21 @@
+window.loadVocabulary("Lektion 7", [
+    { word: "der Bart", translation: "борода" },
+    { word: "der Kopf", translation: "голова" },
+    { word: "der Mund", translation: "рот" },
+    { word: "der Schnurrbart", translation: "усы" },
+    { word: "das Auge", translation: "глаз" },
+    { word: "das Gesicht", translation: "лицо" },
+    { word: "das Haar", translation: "волос" },
+    { word: "das Ohr", translation: "ухо" },
+    { word: "die Figur", translation: "фигура" },
+    { word: "die Haut", translation: "кожа" },
+    { word: "die Lippe", translation: "губа" },
+    { word: "die Nase", translation: "нос" },
+    { word: "wichtig", translation: "важный" },
+    { word: "erzählen über", translation: "рассказывать о" },
+    { word: "schön", translation: "красивый" },
+    { word: "wellig", translation: "волнистый" },
+    { word: "die Brille", translation: "очки" },
+    { word: "die Zeit verbringen", translation: "проводить время" },
+    { word: "zusammen", translation: "вместе" }
+]);

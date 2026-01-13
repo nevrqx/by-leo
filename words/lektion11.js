@@ -1,0 +1,23 @@
+window.loadVocabulary("Lektion 11", [
+    { word: "der Bahnhof", translation: "вокзал" },
+    { word: "der Flughafen", translation: "аэропорт" },
+    { word: "der Markt", translation: "рынок" },
+    { word: "der Park", translation: "парк" },
+    { word: "der Platz", translation: "площадь" },
+    { word: "der Weg", translation: "дорога, путь" },
+    { word: "die Apotheke", translation: "аптека" },
+    { word: "die Bank", translation: "банк" },
+    { word: "die Haltestelle", translation: "остановка" },
+    { word: "die Kirche", translation: "церковь" },
+    { word: "die Post", translation: "почта" },
+    { word: "die Stadt", translation: "город" },
+    { word: "die Straße", translation: "улица" },
+    { word: "das Café", translation: "кафе" },
+    { word: "das Hotel", translation: "отель" },
+    { word: "das Kaufhaus", translation: "универмаг" },
+    { word: "das Kino", translation: "кинотеатр" },
+    { word: "das Krankenhaus", translation: "больница" },
+    { word: "das Museum", translation: "музей" },
+    { word: "das Theater", translation: "театр" },
+    { word: "das Zentrum", translation: "центр" }
+]);
